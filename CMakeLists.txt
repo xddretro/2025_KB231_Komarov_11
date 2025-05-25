@@ -11,6 +11,7 @@ qt_add_executable(untitled
     mainwindow.cpp
     mainwindow.h
     mainwindow.ui
+    smart_ptr.h
 )
 
 target_link_libraries(untitled
